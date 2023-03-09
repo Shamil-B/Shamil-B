@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**Shamil-B/Shamil-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Shamil
 
-Here are some ideas to get you started:
+## About Me
+I am a software engineering student at Addis Ababa University with a strong passion for full stack development. Additionally, I am a competitive programmer and have completed hundreds of problems on LeetCode, HackerRank, and Codeforces, with plans to continue doing so. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My areas of expertise include ReactJS, ExpressJS, NestJS, and Python, and I have completed several projects using these technologies.
+
+## Projects
+You can find go through some of my recent projects on my GitHub profile. Which include my favorite project, a compiler with Python that can compile C++ code to assembly.
+
+## Skills
+Here are some of the skills I have acquired throughout my experience:
+
+* ReactJS
+* ExpressJS
+* Python
+* NestJS
+* Competitive programming
+* HTML,CSS,Javacscript,C++,Java
+* Assembly
+
+## - 📫 How to reach me: ...
+If you'd like to learn more about me or discuss potential collaboration opportunities, please feel free to get in touch with me via email at shamilbedru47@gmail.com
+
+## ⚡ Fun fact:
+I'm a big fan of working late into the night - who needs sleep when you can have more bugs to fix?
