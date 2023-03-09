@@ -11,7 +11,7 @@ My areas of expertise include ReactJS, ExpressJS, NestJS, and Python, and I have
 You can find go through some of my recent projects on my GitHub profile. Which include my favorite project, a compiler with Python that can compile C++ code to assembly.
 
 ## Skills
-Here are some of the skills I have acquired throughout my experience:
+Here are some of the skills I have acquired throughout my experience and have done projects with:
 
 * ReactJS
 * ExpressJS
@@ -21,7 +21,7 @@ Here are some of the skills I have acquired throughout my experience:
 * HTML,CSS,Javacscript,C++,Java
 * Assembly
 
-## - 📫 How to reach me: ...
+## 📫 How to reach me:
 If you'd like to learn more about me or discuss potential collaboration opportunities, please feel free to get in touch with me via email at shamilbedru47@gmail.com
 
 ## ⚡ Fun fact:
