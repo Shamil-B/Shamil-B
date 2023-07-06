@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Shamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamil-b)](https://github.com/shamil-b/github-readme-stats)
 ## I'm Shamil
 
 ## About Me
