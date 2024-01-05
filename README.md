@@ -19,6 +19,7 @@ Here are some of the skills I have acquired throughout my experience and have do
 * Competitive programming
 * HTML,CSS,Javacscript,C++,Java
 * Assembly
+  
 [![committers.top badge](https://user-badge.committers.top/ethiopia/shamil-b.svg)](https://user-badge.committers.top/ethiopia/shamil-b)
 ## 📫 How to reach me:
 If you'd like to learn more about me or discuss potential collaboration opportunities, please feel free to get in touch with me via email at shamilbedru47@gmail.com
