@@ -20,7 +20,7 @@ Here are some of the skills I have acquired throughout my experience and have do
 * HTML,CSS,Javacscript,C++,Java
 * Assembly
   
-[![committers.top badge](https://user-badge.committers.top/ethiopia/Shamil-Bsvg)](https://user-badge.committers.top/ethiopia/Shamil-B)
+[![committers.top badge](https://user-badge.committers.top/ethiopia/Shamil-B.svg)](https://user-badge.committers.top/ethiopia/Shamil-B)
 ## 📫 How to reach me:
 If you'd like to learn more about me or discuss potential collaboration opportunities, please feel free to get in touch with me via email at shamilbedru47@gmail.com
 
