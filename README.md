@@ -13,6 +13,9 @@ You can find go through some of my recent projects on my GitHub profile. Which i
 Here are some of the skills I have acquired throughout my experience and have done projects with:
 
 * ReactJS
+* NextJs
+* Angular
+* Flutter
 * ExpressJS
 * Python
 * NestJS
@@ -21,6 +24,11 @@ Here are some of the skills I have acquired throughout my experience and have do
 * Assembly
   
 [![committers.top badge](https://user-badge.committers.top/ethiopia/Shamil-B.svg)](https://user-badge.committers.top/ethiopia/Shamil-B)
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shamil-b&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shamil-b&langs_count=5&theme=tokyonight)]()
+
 ## 📫 How to reach me:
 If you'd like to learn more about me or discuss potential collaboration opportunities, please feel free to get in touch with me via email at shamilbedru47@gmail.com
 
