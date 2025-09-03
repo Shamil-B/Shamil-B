@@ -8,7 +8,7 @@ So, I'm a software engineer — big whoop, right? But unlike half the galaxy's w
 ---
 
 ## Projects
-You can find go through some of my recent projects on my GitHub profile. Which include my favorite project, a compiler with Python that can compile C++ code to assembly.
+Projects? Yeah, I've built some. Not gonna bore you with the details unless you're into sexy, modular, scalable code that doesn’t implode the multiverse.
 
 ## 🛠 Skills & Tech Stack
 Frontend:  
