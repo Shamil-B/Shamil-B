@@ -1,9 +1,10 @@
-<h1 align="center">Ughhh... Hey, I'm Shamil — yeah, the Shamil.</h1>
+<h1 align="center">Hey, I'm Shamil</h1>
 
 ---
 
 ## 💼 About Me
-So, I'm a software engineer — big whoop, right? But unlike half the galaxy's wannabe coders, I actually give a damn about full stack development. ReactJS, ExpressJS, NestJS, Python — yeah, I speak fluent buzzword. Additionally, I am a competitive programmer. Hundreds of problems cracked on LeetCode, HackerRank, Codeforces — basically, I bend logic to my will for fun.
+I’m a software engineer with a strong focus on full-stack development. I work extensively with technologies like ReactJS, ExpressJS, NestJS, and Python and I know how to actually use them, not just list them.
+Outside of work, I’m a competitive programmer with hundreds of problems solved across platforms like LeetCode, HackerRank, and Codeforces. I enjoy solving complex problems and writing clean, efficient code.
 
 ---
 
